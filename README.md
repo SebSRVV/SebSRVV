@@ -1,8 +1,11 @@
-# 👋 Bienvenido!
+<p align="center">
+  <h1 align="center">👋 Bienvenido!</h1>
+</p>
 
-## Soy Sebastián Rojas (SebRVV)
-
-### 💼 Full Stack Developer | 🎮 Pro Gamer
+<p align="center">
+  <strong>Soy Sebastián Rojas (SebRVV)</strong><br>
+  💼 Full Stack Developer | 🎮 Pro Gamer
+</p>
 
 ---
 
