@@ -1,3 +1,6 @@
+<!-- Meta description for SEO -->
+<meta name="description" content="SebRVV - Sebastián Rojas, Full Stack Developer. Visita mi portafolio sebrvv.com para ver proyectos, código y colaboraciones. Especialista en TypeScript, React, Node.js.">
+
 <p align="center">
   <h1 align="center">👋 Bienvenido!</h1>
 </p>
@@ -5,6 +8,12 @@
 <p align="center">
   <strong>Soy Sebastián Rojas (SebRVV)</strong><br>
   💼 Full Stack Developer | 🎮 Pro Gamer
+</p>
+
+<p align="center">
+  <a href="https://sebrvv.com">
+    <img src="https://img.shields.io/badge/🌐%20sebrvv.com-Visit%20Portfolio-blue?style=for-the-badge&logo=world&logoColor=white" alt="Visita sebrvv.com">
+  </a>
 </p>
 
 ---
@@ -21,7 +30,21 @@ Alias: SebRVV
 
 ---
 
+## 🌐 Mi Portafolio: sebrvv.com
+
+**Visita mi portafolio oficial en [sebrvv.com](https://sebrvv.com)**
+
+En **sebrvv.com** encontrarás:
+- 📁 **Proyectos realizados** con enlaces
+- 📧 **Contacto directo** para colaboraciones profesionales
+
+**También puedes visitar mi página gaming: [gaming.sebrvv.com](https://gaming.sebrvv.com)**
+
+---
+
 ## 📬 Contacto
+
+**🌐 Portafolio principal: [sebrvv.com](https://sebrvv.com)**
 
 * 📧 Email: [sebrojasw@gmail.com](mailto:sebrojasw@gmail.com)
 * 💼 LinkedIn:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebrvv)
