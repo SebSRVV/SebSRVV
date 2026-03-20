@@ -34,8 +34,6 @@ Focus: Performance • Scalability • UX
 Location: Peru → Worldwide
 ```
 
-**I build fast, scalable web applications engineered to deliver performance, conversion, and real business growth.**
-
 
 ## 🚀 What I build
 
